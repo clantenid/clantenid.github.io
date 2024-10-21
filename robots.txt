@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clantenid.github.io/clantenid.txt.gz
+Sitemap: https://clantenid.github.io/app/clantenid.txt.gz
+Sitemap: https://clantenid.github.io/assets/clantenid.txt.gz
+Sitemap: https://clantenid.github.io/css/clantenid.txt.gz
+Sitemap: https://clantenid.github.io/includes/clantenid.txt.gz
+Sitemap: https://clantenid.github.io/item/clantenid.txt.gz
+Sitemap: https://clantenid.github.io/src/clantenid.txt.gz
